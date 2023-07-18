@@ -10,7 +10,7 @@
 
  🌱 I'm a Software Engineer who Love Particularly BackEnd Development and have a lot of interest
     Learning all theories about Databases (Normalization, ACID, CAP, etc...).
-    Skilled in Java(SE), JavaScript, Node.js, Express.js, SQL, HTML, CSS, PostgreSQL
+    Skilled in Java(SE), JavaScript, Typescript, Node.js, Express.js, SQL, HTML, CSS, PostgreSQL, MongoDB
 
 ```
 
