@@ -6,15 +6,15 @@
 <h3 align="left">About me:</h3>
 
 ```
- 🔭 I'm currently A Student at Faculty Of Computer & Artifial Intellgence Helwan Univerctiy
+ 🔭 I'm currently a graduate from the Faculty Of Computer & Artificial Intelligence Helwan Universityy
 
- 🌱 I'm Software Engineer who Love Particularly BackEnd Development and have a alot of interest
- Learning all theories about Databases (Normalization, ACID, CAP, ect...). Skilled in Java(SE), JavaScript, Node.js, Express.js, SQL, HTML, CSS
+ 🌱 I'm a Software Engineer who Love Particularly BackEnd Development and have a lot of interest
+    Learning all theories about Databases (Normalization, ACID, CAP, etc...).
+    Skilled in Java(SE), JavaScript, Node.js, Express.js, SQL, HTML, CSS, PostgreSQL
 
 ```
 
 - 📫 How to reach me: **gasserkhaled23@gmail.com**
-- 💬 Ask me about : Java(SE), JavaScript, SQL, Database Design & Development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
